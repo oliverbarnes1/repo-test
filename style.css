@@ -7,7 +7,7 @@
 }
 
 body {
-  height: 700px;
+  height: 10px;
   background-color: #475D6E; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #5c798f, #29353d);
   line-height: 100%;
